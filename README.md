@@ -8,3 +8,4 @@
 * Probabilistic Models
 * Discrete & Continuous Random Variables & Vectors
 * Central Limit Theorem
+* Matlab Introduction
